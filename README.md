@@ -30,9 +30,8 @@ EZPassRI is a small React application built to help users track and manage toll 
 
 
 **Your A/C Name**
-Email: your-account-email@example.com
-Website: EZPassRI
-
+Email: 
+Website: [EZPassRI](https://www.ezpass-ri.com)
 
 Bio: A seasoned full-stack developer with expertise in building modern React applications. Has years of experience in JavaScript, UI design, and helping contributors learn best practices. Passionate about clean code, useful documentation, and mentoring others.
 
